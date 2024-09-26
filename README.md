@@ -1,11 +1,11 @@
-
-<h1 align="center" title="Bienvenido">
+<img width="100%" src="https://github.com/holddev/holddev/blob/main/assets/banner.webp" alt="banner to github profile"/>
+<h2 align="start" title="Bienvenido a mi perfil">
 
 ```jsx
-<ShowDialog message="🌟 ¡Hola, Bienvenido!" />
+<ShowDialog message="🌟¡Bienvenido!"/>
 ```
   
-</h1>
+</h2>
 
 
 ## 💫 Acerca de mí
